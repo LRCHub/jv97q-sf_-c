@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "出来心",
+  "base_artist": "Kotoha",
+  "createdAt": "2026-02-25T03:00:22.326239Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "出来心",
+      "artist": "Kotoha",
+      "has_synced": false,
+      "path": "select/pl_01_出来心_Kotoha.txt"
+    }
+  ]
+}
